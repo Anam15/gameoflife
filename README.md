@@ -25,8 +25,8 @@ e) masm filename.asm <br/>
 f) Enter ; <br/>
 g) link filename <br/>
 h) Enter ; <br/>
-i) filename <br/>
-Once you are in the file , <br/> <br/>
+i) filename <br/> <br/>
+Once you are in the file , <br/>
 a) Press Enter to go from the title page (initial screen) to the screen where you can 
 draw the initial configuration using the mouse <br/>
 b) Right click and then drag the mouse around the screen to draw the initial 
@@ -39,7 +39,7 @@ c) Right click to make the mouse disappear. <br/>
 d) Press any key from the keyboard to play the game <br/>
 e) Press Esc to go to the exit page <br/><br/>
 Note: User also has the ability to go from the exit screen to the screen where the user can
-draw the initial configuration. The user can do so by pressing SPACE. <br/> <br/>
+draw the initial configuration. The user can do so by pressing SPACE. <br/> 
 Note: To exit DOSBOX, meaning get the control of your mouse outside of DOSBOX, press
 Ctrl + F10 <br/> <br/>
 ### Built With
