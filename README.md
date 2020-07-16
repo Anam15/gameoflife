@@ -1,10 +1,33 @@
-#Game of Life (8086 Assembly)
-#Rules :
-#1) Any live cell with fewer than two live neighbours dies, as if by underpopulation.
-#2) Any live cell with two or three live neighbours lives on to the next generation.
-#3) Any live cell with more than three live neighbours dies, as if by overpopulation.
-#4) Any dead cell with exactly three live neighbours becomes a live cell, as if by
-reproduction.
+# Game of Life (Assembly 8086)
+
+### Rules
+`1. Any live cell with fewer than two live neighbours dies, as if by underpopulation.
+ 2. Any live cell with two or three live neighbours lives on to the next generation.
+ 3) Any live cell with more than three live neighbours dies, as if by overpopulation.
+ 4) Any dead cell with exactly three live neighbours becomes a live cell, as if by
+ Please reference the following link to read more about the rules:
+ 
+
+### App Walk-though
+
+<img src"https://i.imgur.com/7GhYcMV.gif" width=200><br>
+
+### Required User Stories
+- [x] 1. User sees custom text in a label - Hello from {name}!
+- [x] 2. User see's custom background color.
+- [x] 3. User can tap a button to change the text color of the label.
+
+### Optional User Stories
+- [x] 1. User can tap a button to change the color of the background view.  
+- [ ] 2. User can tap a button to change the text string of the label - Android is Awesome!  
+- [x] 3. User can tap on the background view to reset all views to default settings.  
+- [x] 4. User can update the label text with custom text entered into the text field.  
+   - [x] a. User can enter text into a text field using the keyboard.  
+   - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.  
+   - [x] c. If the text field is empty, update label with default text string.  
+
+
+
 Please reference the following link to read more about the rules:
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life?fbclid=IwAR2VbPeFDLWS0jLoL5
 Bbjm0QYxKsjZjEQBuVLAR8Qx4pBPji3JZrmPNSz5
