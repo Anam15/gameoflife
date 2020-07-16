@@ -33,6 +33,9 @@ drive
 4. Following is the picture of a recommended amount of initial configuration
 drawn: <br/> 
 <div style="text-align:center"><img src="proj2.png" /></div>
+<p align="center">
+  <img src="proj2.png" />
+</p>
 <img align="center" height =500 width = 700 src="proj2.png"/>
 Note: If you are not satisfied with the initial condition you drew, press SPACE to reset the
 screen. Once the screen is reset , draw your initial condition again. <br/>
