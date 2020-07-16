@@ -13,7 +13,7 @@ https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life?fbclid=IwAR2VbPeFDLWS0jLoL
 1. Install DOSBOX on your machine using the following link: https://www.dosbox.com/
 2. Install 8086 zip file by clicking the following link:
 https://drive.google.com/file/d/0B001eXddyriFbFBhclB5QmVvaVE/view
-## Installing
+# Installing
 1. Go, to your Download, click on the 8086 zip file and move the 8086 folder into your C
 drive
 2. Open your DOSBOX and type in the following commands: <br/> 
@@ -32,11 +32,9 @@ drive
   <pre><code> b) Right click and then drag the mouse around the screen to draw the initial configuration (NOTE: make sure you fill the screen a lot to see the results). <br/> </code></pre>
 4. Following is the picture of a recommended amount of initial configuration
 drawn: <br/> 
-<div style="text-align:center"><img src="proj2.png" /></div>
 <p align="center">
   <img src="proj2.png" />
 </p>
-<img align="center" height =500 width = 700 src="proj2.png"/>
 Note: If you are not satisfied with the initial condition you drew, press SPACE to reset the
 screen. Once the screen is reset , draw your initial condition again. <br/>
  <pre><code> c) Right click to make the mouse disappear. <br/></code></pre>
