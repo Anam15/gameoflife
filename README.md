@@ -28,8 +28,9 @@ drive
 <pre><code>i) filename <br/> </code></pre>
 
 3. Once you are in the file , <br/>
-  <pre><pre><code>a) Press Enter to go from the title page (initial screen) to the screen where you can draw the initial configuration using the mouse <br/> </code></pre></pre>
- <pre><code> b) Right click and then drag the mouse around the screen to draw the initial configuration (NOTE: make sure you fill the screen a lot to see the results). <br/> </code></pre>
+  <pre><code>a) Press Enter to go from the title page (initial screen) to the screen where you can draw the initial configuration using the mouse <br/> </code></pre>
+  <pre><code> b) Right click and then drag the mouse around the screen to draw the initial configuration </br>
+  (NOTE: make sure you fill the screen a lot to see the results). <br/> </code></pre>
 4. Following is the picture of a recommended amount of initial configuration
 drawn: <br/> 
 <img align="center" height =500 width = 700 src="proj2.png"/>
@@ -42,7 +43,8 @@ Note: User also has the ability to go from the exit screen to the screen where t
 draw the initial configuration. The user can do so by pressing SPACE. <br/> 
 Note: To exit DOSBOX, meaning get the control of your mouse outside of DOSBOX, press
 Ctrl + F10 <br/> <br/>
-## Build With </br>
+
+### Build With </br>
 - Visual Studio Code - used to write assembly code </br>
 - DOSBOX - used to run the assembly code
 
