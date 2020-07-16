@@ -17,21 +17,21 @@ https://drive.google.com/file/d/0B001eXddyriFbFBhclB5QmVvaVE/view
 1. Go, to your Download, click on the 8086 zip file and move the 8086 folder into your C
 drive
 2. Open your DOSBOX and type in the following commands: <br/> 
-a) mount c c:/8086 <br/>
-b) c: <br/>
-c) edit filename.asm <br/>
-d) Type in your assembly code here <br/>
-e) masm filename.asm <br/>
-f) Enter ; <br/>
-g) link filename <br/>
-h) Enter ; <br/>
-i) filename <br/> 
+<pre><code>a) mount c c:/8086 <br/> </code></pre>
+<pre><code>b) c: <br/> </code></pre>
+<pre><code>c) edit filename.asm <br/> </code></pre>
+<pre><code>d) Type in your assembly code here <br/> </code></pre>
+<pre><code>e) masm filename.asm <br/> </code></pre>
+<pre><code>f) Enter ; <br/> </code></pre>
+<pre><code>g) link filename <br/> </code></pre>
+<pre><code>h) Enter ; <br/> </code></pre>
+<pre><code>i) filename <br/> </code></pre>
 
 3. Once you are in the file , <br/>
-  a) Press Enter to go from the title page (initial screen) to the screen where you can 
-  draw the initial configuration using the mouse <br/>
-  b) Right click and then drag the mouse around the screen to draw the initial 
-  configuration (NOTE: make sure you fill the screen a lot to see the results). <br/>
+  <pre><code>a) Press Enter to go from the title page (initial screen) to the screen where you can 
+                draw the initial configuration using the mouse <br/> </code></pre>
+ <pre><code> b) Right click and then drag the mouse around the screen to draw the initial 
+                configuration (NOTE: make sure you fill the screen a lot to see the results). <br/> </code></pre>
 4. Following is the picture of a recommended amount of initial configuration
 drawn: <br/> 
 <img align="center" height =500 width = 700 src="proj2.png"/>
