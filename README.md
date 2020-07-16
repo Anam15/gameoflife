@@ -20,28 +20,28 @@ drive
 a) mount c c:/8086 <br/>
 b) c: <br/>
 c) edit filename.asm <br/>
-d) Type in your assembly code here
-e) masm filename.asm
-f) Enter ;
-g) link filename
-h) Enter ;
-i) filename
-Once you are in the file ,
-a) Press Enter to go from the title page (initial screen) to the screen where you can
-draw the initial configuration using the mouse
-b) Right click and then drag the mouse around the screen to draw the initial
-configuration (NOTE: make sure you fill the screen a lot to see the results).
+d) Type in your assembly code here <br/>
+e) masm filename.asm <br/>
+f) Enter ; <br/>
+g) link filename <br/>
+h) Enter ; <br/>
+i) filename <br/>
+Once you are in the file , <br/>
+a) Press Enter to go from the title page (initial screen) to the screen where you can 
+draw the initial configuration using the mouse <br/>
+b) Right click and then drag the mouse around the screen to draw the initial 
+configuration (NOTE: make sure you fill the screen a lot to see the results). <br/>
 Following is the picture of a recommended amount of initial configuration
-drawn:
+drawn: <br/>
 Note: If you are not satisfied with the initial condition you drew, press SPACE to reset the
-screen. Once the screen is reset , draw your initial condition again.
-c) Right click to make the mouse disappear.
-d) Press any key from the keyboard to play the game
-e) Press Esc to go to the exit page
+screen. Once the screen is reset , draw your initial condition again. <br/>
+c) Right click to make the mouse disappear. <br/>
+d) Press any key from the keyboard to play the game <br/>
+e) Press Esc to go to the exit page <br/>
 Note: User also has the ability to go from the exit screen to the screen where the user can
-draw the initial configuration. The user can do so by pressing SPACE.
+draw the initial configuration. The user can do so by pressing SPACE. <br/>
 Note: To exit DOSBOX, meaning get the control of your mouse outside of DOSBOX, press
-Ctrl + F10
+Ctrl + F10 <br/>
 ### Built With
 - Visual Studio Code - used to write assembly code
 - DOSBOX - used to run the assembly code
