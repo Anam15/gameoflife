@@ -8,7 +8,7 @@
 
 Please reference the following link to read more about the rules:
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life?fbclid=IwAR2VbPeFDLWS0jLoL5
-Bbjm0QYxKsjZjEQBuVLAR8Qx4pBPji3JZrmPNSz5
+
 ### Prerequisites
 1. Install DOSBOX on your machine using the following link: https://www.dosbox.com/
 2. Install 8086 zip file by clicking the following link:
@@ -16,10 +16,10 @@ https://drive.google.com/file/d/0B001eXddyriFbFBhclB5QmVvaVE/view
 ## Installing
 1. Go, to your Download, click on the 8086 zip file and move the 8086 folder into your C
 drive
-2. Open your DOSBOX and type in the following commands:
-a) mount c c:/8086
-b) c:
-c) edit filename.asm
+2. Open your DOSBOX and type in the following commands: <br/>
+a) mount c c:/8086 <br/>
+b) c: <br/>
+c) edit filename.asm <br/>
 d) Type in your assembly code here
 e) masm filename.asm
 f) Enter ;
