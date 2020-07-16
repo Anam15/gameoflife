@@ -27,17 +27,17 @@ g) link filename <br/>
 h) Enter ; <br/>
 i) filename <br/> <br/>
 Once you are in the file , <br/>
-a) Press Enter to go from the title page (initial screen) to the screen where you can 
-draw the initial configuration using the mouse <br/>
-b) Right click and then drag the mouse around the screen to draw the initial 
-configuration (NOTE: make sure you fill the screen a lot to see the results). <br/>
+  a) Press Enter to go from the title page (initial screen) to the screen where you can 
+  draw the initial configuration using the mouse <br/>
+  b) Right click and then drag the mouse around the screen to draw the initial 
+  configuration (NOTE: make sure you fill the screen a lot to see the results). <br/>
 Following is the picture of a recommended amount of initial configuration
 drawn: <br/> <br/>
 Note: If you are not satisfied with the initial condition you drew, press SPACE to reset the
 screen. Once the screen is reset , draw your initial condition again. <br/>
-c) Right click to make the mouse disappear. <br/>
-d) Press any key from the keyboard to play the game <br/>
-e) Press Esc to go to the exit page <br/><br/>
+  c) Right click to make the mouse disappear. <br/>
+  d) Press any key from the keyboard to play the game <br/>
+  e) Press Esc to go to the exit page <br/><br/>
 Note: User also has the ability to go from the exit screen to the screen where the user can
 draw the initial configuration. The user can do so by pressing SPACE. <br/> 
 Note: To exit DOSBOX, meaning get the control of your mouse outside of DOSBOX, press
