@@ -1,23 +1,19 @@
 # Game of Life (Assembly 8086)
 
 ### Rules
-- `1. Any live cell with fewer than two live neighbours dies, as if by underpopulation.
--  2. Any live cell with two or three live neighbours lives on to the next generation.
--  3) Any live cell with more than three live neighbours dies, as if by overpopulation.
--  4) Any dead cell with exactly three live neighbours becomes a live cell, as if by
--  Please reference the following link to read more about the rules:
-  
-
-
+- `Any live cell with fewer than two live neighbours dies, as if by underpopulation.
+-  Any live cell with two or three live neighbours lives on to the next generation.
+-  Any live cell with more than three live neighbours dies, as if by overpopulation.
+-  Any dead cell with exactly three live neighbours becomes a live cell, as if by
 
 Please reference the following link to read more about the rules:
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life?fbclid=IwAR2VbPeFDLWS0jLoL5
 Bbjm0QYxKsjZjEQBuVLAR8Qx4pBPji3JZrmPNSz5
-Prerequisites
+### Prerequisites
 1. Install DOSBOX on your machine using the following link: https://www.dosbox.com/
 2. Install 8086 zip file by clicking the following link:
 https://drive.google.com/file/d/0B001eXddyriFbFBhclB5QmVvaVE/view
-Installing
+## Installing
 1. Go, to your Download, click on the 8086 zip file and move the 8086 folder into your C
 drive
 2. Open your DOSBOX and type in the following commands:
@@ -46,8 +42,9 @@ Note: User also has the ability to go from the exit screen to the screen where t
 draw the initial configuration. The user can do so by pressing SPACE.
 Note: To exit DOSBOX, meaning get the control of your mouse outside of DOSBOX, press
 Ctrl + F10
-Built With
-Visual Studio Code - used to write assembly code
-DOSBOX - used to run the assembly code
-Author
+### Built With
+- Visual Studio Code - used to write assembly code
+- DOSBOX - used to run the assembly code
+
+### Author
 Anam Munawar
