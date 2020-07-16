@@ -29,10 +29,10 @@ drive
 
 3. Once you are in the file , <br/>
   <pre><code>a) Press Enter to go from the title page (initial screen) to the screen where you can draw the initial configuration using the mouse <br/> </code></pre>
-  <pre><code> b) Right click and then drag the mouse around the screen to draw the initial configuration </br>
-  (NOTE: make sure you fill the screen a lot to see the results). <br/> </code></pre>
+  <pre><code> b) Right click and then drag the mouse around the screen to draw the initial configuration (NOTE: make sure you fill the screen a lot to see the results). <br/> </code></pre>
 4. Following is the picture of a recommended amount of initial configuration
 drawn: <br/> 
+<div style="text-align:center"><img src="proj2.png" /></div>
 <img align="center" height =500 width = 700 src="proj2.png"/>
 Note: If you are not satisfied with the initial condition you drew, press SPACE to reset the
 screen. Once the screen is reset , draw your initial condition again. <br/>
