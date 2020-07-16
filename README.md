@@ -25,16 +25,16 @@ e) masm filename.asm <br/>
 f) Enter ; <br/>
 g) link filename <br/>
 h) Enter ; <br/>
-i) filename <br/> <br/>
+i) filename <br/> 
 3. Once you are in the file , <br/>
   a) Press Enter to go from the title page (initial screen) to the screen where you can 
   draw the initial configuration using the mouse <br/>
   b) Right click and then drag the mouse around the screen to draw the initial 
   configuration (NOTE: make sure you fill the screen a lot to see the results). <br/>
 4. Following is the picture of a recommended amount of initial configuration
-drawn: <br/> <br/>
+drawn: <br/> 
 <img align="center" height =500 width = 700 src="proj2.png"/>
-Note: If you are not satisfied with the initial condition you drew, press SPACE to reset the
+5. Note: If you are not satisfied with the initial condition you drew, press SPACE to reset the
 screen. Once the screen is reset , draw your initial condition again. <br/>
   c) Right click to make the mouse disappear. <br/>
   d) Press any key from the keyboard to play the game <br/>
@@ -43,9 +43,9 @@ Note: User also has the ability to go from the exit screen to the screen where t
 draw the initial configuration. The user can do so by pressing SPACE. <br/> 
 Note: To exit DOSBOX, meaning get the control of your mouse outside of DOSBOX, press
 Ctrl + F10 <br/> <br/>
-### Built With
+## Built With </br>
 - Visual Studio Code - used to write assembly code
 - DOSBOX - used to run the assembly code
 
-### Author
+## Author
 Anam Munawar
