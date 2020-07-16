@@ -33,7 +33,7 @@ Once you are in the file , <br/>
   configuration (NOTE: make sure you fill the screen a lot to see the results). <br/>
 Following is the picture of a recommended amount of initial configuration
 drawn: <br/> <br/>
-<img src="proj2.png"/>
+<img align="left" width="100" height="100" src="proj2.png"/>
 Note: If you are not satisfied with the initial condition you drew, press SPACE to reset the
 screen. Once the screen is reset , draw your initial condition again. <br/>
   c) Right click to make the mouse disappear. <br/>
